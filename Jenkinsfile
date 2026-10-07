@@ -1,3 +1,4 @@
+// DevSecOps Hardened Pipeline for Task 12
 pipeline {
     agent any
 
